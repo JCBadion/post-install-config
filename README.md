@@ -107,3 +107,8 @@ Under the Manage section again, at the far left of the subsections is the Help T
   Once everything is set up you are ready to test out and try the newly-created osTicket System.
 </p>
 <br />
+
+
+<h2>osTicket Part 3</h2>
+
+  - ### [osTicket Ticket-Lifecycle](https://github.com/JCBadion/ticket-lifecycle)
