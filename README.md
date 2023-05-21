@@ -73,17 +73,37 @@ When creating a new department in osTicket, you can change a lot of what a certa
 <br />
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oCJKvgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Making new teams is useful for organizing agents to work on a specific case or in specific departments, or even in special one-off projects and the team will consist of people from different departments. For this example, Level II Support is being created to handle tickets that Level I Support might not be qualified to handle or they don't have an answer to. Being in a team does not grant any special authorizations however. They are only there to build a proper structure of command. One department could only have one team, but another department might have many, with each team having more permissions or fewer permissions.
 </p>
 <br />
-  
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://puu.sh/JHfsk/02a24507dd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a new user as an agent, from the admin panel look at the top right again and press the "Agent Panel" button to return to the agent's portal. Afterwards, press on the User section and from there you can create a new user or lookup an existing user's information. If a user is not registered within the osTicket system yet, you can add them to the directory with their name and email address attached. This would mean that this user is now within their system and when they create tickets their name and email will be used. Another way to look at users is as customers. When customers create an account with a company, this is effectively what they're doing; They are filling in their own information to be added into a company's user directory.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8gdF5rQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To get to Service-Level Agreements (SLA), click back to the Admin Panel, and under the Manage section, there is a subsection called "SLA" and click on that. For the example we'll use SEV-A (Severity-A). Tickets labeled as SEV-A mean that they need to be responded to within an hour after being created, and must be resolved ASAP. These tickets can occur at any time of the day or week, whether it is morning, night, or a holiday. Generally these tickets take the highest priority. Other types of SLAs include SEV-B and SEV-C. SEV-B means that the ticket is urgent and must be responded to generally within 4 hours after created, and must be addressed 24/7. And SEV-C tickets are generally less urgent tickets and can be addressed in about 8 hours, but only during business hours and holidays.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/n9IcRWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9uI00PZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the Manage section again, at the far left of the subsections is the Help Topics section. Making new help topics can be useful for sending certain tickets to specific departments. For the example Personal Computer Issues, depending on what type of company this is, this ticket can be both an internal or external ticket, and can apply to both support agents and maintenance agents. You can change the parent topic of this inquiry, such as Reporting a problem/Access Issue. For Help Topics you can specify which departs will receive which ticket, depending on the ticket. You can also change how important a ticket is based on the agents authorized to receive it. A ticket could be sent directly to managers or system administrators due to its urgency.
+  
+  
+  Once everything is set up you are ready to test out and try the newly-created osTicket System.
 </p>
 <br />
