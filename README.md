@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/2OxqBON.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -35,6 +36,7 @@ Once you login to osTicket for the first time, look at the upper right and click
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/NnOXV5g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -42,6 +44,7 @@ Once inside the Admin Panel, click on the Agents tab. From the Agents Tab, you c
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/IVSxzIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -50,7 +53,9 @@ When making new agents, you can setup their name and an email for them to use wh
 <br />  
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/ei2fY4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/T9xKDeV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -59,6 +64,7 @@ When making new roles, you can adjust what they are allowed to do with tickets o
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/EneBV7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -73,6 +79,7 @@ When creating a new department in osTicket, you can change a lot of what a certa
 <br />
   
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/oCJKvgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -81,6 +88,7 @@ Making new teams is useful for organizing agents to work on a specific case or i
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://puu.sh/JHfsk/02a24507dd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -89,6 +97,7 @@ To create a new user as an agent, from the admin panel look at the top right aga
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/8gdF5rQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -97,7 +106,9 @@ To get to Service-Level Agreements (SLA), click back to the Admin Panel, and und
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/n9IcRWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/9uI00PZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
