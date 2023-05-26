@@ -89,7 +89,7 @@ Making new teams is useful for organizing agents to work on a specific case or i
 
 <p>
 <h4>Creating New Users</h4>
-<img src="https://puu.sh/JHfsk/02a24507dd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x0dAPWt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To create a new user as an agent, from the admin panel look at the top right again and press the "Agent Panel" button to return to the agent's portal. Afterwards, press on the User section and from there you can create a new user or lookup an existing user's information. If a user is not registered within the osTicket system yet, you can add them to the directory with their name and email address attached. This would mean that this user is now within their system and when they create tickets their name and email will be used. Another way to look at users is as customers. When customers create an account with a company, this is effectively what they're doing; They are filling in their own information to be added into a company's user directory.
